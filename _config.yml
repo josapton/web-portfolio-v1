@@ -3,8 +3,8 @@
 title: Joko Saptono
 description: Someone who Ingin Menjadi Programmer Handal Namun Enggan Ngoding
 
-baseurl: "" #name of GitHub repository
-url: "https://josapton.github.io" #custom url to be used instead of GitHub repository
+baseurl: "/josapton.github.io-v1"
+url: "https://josapton.github.io"
 email: "josapton@gmail.com"
 
 # Pagination
